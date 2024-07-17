@@ -1,0 +1,40 @@
+/* BasketballPlayerCard.css */
+
+.player-card {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.player-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.player-details {
+  text-align: center;
+}
+
+.player-name {
+  font-size: 1.5rem;
+  margin-bottom: 5px;
+}
+
+.player-position {
+  font-style: italic;
+  color: #666;
+}
+
+.player-stats {
+  margin-top: 10px;
+}
+
+.player-stats p {
+  margin: 5px 0;
+}
